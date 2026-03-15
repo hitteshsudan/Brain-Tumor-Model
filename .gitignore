@@ -1,0 +1,8 @@
+*.h5
+*.pth
+*.pt
+venv/
+__pycache__/
+dataset/*.h5 
+*.pt 
+*.pth 
